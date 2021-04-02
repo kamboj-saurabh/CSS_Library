@@ -202,6 +202,7 @@ a{
     background-color: var(--warmgray200);
     display: flex;
     flex-direction: column;
+   
 }
 
 .footer{
